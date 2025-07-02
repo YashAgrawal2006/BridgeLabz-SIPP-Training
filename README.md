@@ -63,22 +63,24 @@ Topics: Object-oriented modeling, designing class diagrams using UML, understand
 * 📅 26/06/25 (Thu) – Day 1 – Coding Review<br>
 Problem Statement : 📚 BookBuddy – Digital Bookshelf App<br>
 📝 Story: Users maintain a personal digital bookshelf by adding, updating, and sorting their favorite books by title and author.<br>
-🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/blob/Workshop/BooksManagement.java)
-
+🔗 [Code](https://github.com/YashAgrawal2006/BridgeLabz-SIPP-Training/blob/workshop/Workshop/Bankmanagement.java.txt)
 * 📅 27/06/25 (Fri) – Day 2 – Coding Review<br>
 Problem Statement : 🧠 Online Quiz Platform – Result Processor<br>
 📘 Scenario: A quiz platform processes user-submitted answers and compares them to the correct answers to calculate scores and assign grades.<br>
-🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/blob/Workshop/OnlineQuizPlatform.java)<br>
+🔗 [Code](https://github.com/YashAgrawal2006/BridgeLabz-SIPP-Training/blob/workshop/Workshop/Cinemamanagement.java.txt)<br>
 
 * 📅 28/06/25 (Sat) – Day 3 – Coding Review<br>
 Problem Statement 1 : ✈ Flight Booking System<br>
 📘 Scenario: Simulate a basic flight booking system where users can search flights, book them, and view booking details.<br>
-🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/blob/Workshop/FlightManagement.java)<br>
+🔗 [Code](https://github.com/YashAgrawal2006/BridgeLabz-SIPP-Training/blob/workshop/Workshop/Flightmanagement.java.txt)<br>
 
 * 📅 28/06/25 (Sat) – Day 3 – Coding Review<br>
 Problem Statement 2 : 🎬 CinemaTime – Movie Schedule Manager<br>
 📘 Scenario: A cinema manager wants a tool to store and update a list of movie showtimes and titles. Users should be able to add, view, and search movies.<br>
-🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/blob/Workshop/CinemaManagement.java)<br>
-
-📝 Note:
+🔗 [Code](https://github.com/YashAgrawal2006/BridgeLabz-SIPP-Training/blob/workshop/Workshop/Onlinemanagement.java.txt)<br>
+* 📅 29/06/25 (Sat) – Day 3 – Coding Review<br>
+Problem Statement 3 : Studentreportcard<br>
+📘 Scenario: A studentreportcard wants a tool to store the report cards of students ,user should be able to add,view,and search the report card of the students
+🔗 [Code]_(https://github.com/YashAgrawal2006/BridgeLabz-SIPP-Training/blob/workshop/Workshop/Studentreportcard.java.txt)<br>
+  
 Each topic’s code is organized in its dedicated branch — but this main README connects everything.
