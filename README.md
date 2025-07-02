@@ -81,6 +81,6 @@ Problem Statement 2 : 🎬 CinemaTime – Movie Schedule Manager<br>
 * 📅 29/06/25 (Sat) – Day 3 – Coding Review<br>
 Problem Statement 3 : Studentreportcard<br>
 📘 Scenario: A studentreportcard wants a tool to store the report cards of students ,user should be able to add,view,and search the report card of the students
-🔗 [Code]_(https://github.com/YashAgrawal2006/BridgeLabz-SIPP-Training/blob/workshop/Workshop/Studentreportcard.java.txt)<br>
+🔗 [Code](https://github.com/YashAgrawal2006/BridgeLabz-SIPP-Training/blob/workshop/Workshop/Studentreportcard.java.txt)<br>
   
 Each topic’s code is organized in its dedicated branch — but this main README connects everything.
