@@ -1,0 +1,28 @@
+public class QuickSortExample {
+
+    // Method to perform Quick Sort
+    public static void quickSort(int[] prices, int low, int high) {
+        if (low < high) {
+            // Partition the array and get pivot index
+            int pivotIndex = partition(prices, low, high);
+
+            // Recursively apply QuickSort to left and right parts
+            quickSort(prices, low, pivotIndex - 1);
+            quickSort(prices, pivotIndex + 1, high);
+        }
+    }
+
+    // Partition method
+    public static int partition(int[] prices, int low, int high) {
+        int pivot = prices[high];  // taking last element as pivot
+        int i = low - 1;  // index of smaller element
+
+        for (int j = low; j < high; j++) {
+            // If current element is smaller than or equal to pivot
+            if (prices[j] <= pivot) {
+                i++;
+                // Swap prices[i] and prices[j]
+                int temp = prices[i];
+                prices[i] = prices[j];
+                prices[j] = temp;
+            }
