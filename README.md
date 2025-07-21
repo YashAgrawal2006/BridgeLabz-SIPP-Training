@@ -82,5 +82,14 @@ Problem Statement 2 : 🎬 CinemaTime – Movie Schedule Manager<br>
 Problem Statement 3 : Studentreportcard<br>
 📘 Scenario: A studentreportcard wants a tool to store the report cards of students ,user should be able to add,view,and search the report card of the students
 🔗 [Code](https://github.com/YashAgrawal2006/BridgeLabz-SIPP-Training/blob/workshop/Workshop/Studentreportcard.java.txt)<br>
+
+🧱 OOP Branch
+📅 01/07/25 (Tue) – Day 5 – Inheritance
+Topics: Inheritance, Single Level Inheritance, Multilevel Inheritance, Hierarchical Inheritance, Key Features of Inheritance, Method Overriding, Constructor Inheritance in Java, Polymorphism and Inheritance, Access Modifiers and Inheritance.
+🔗 [Code]_(https://github.com/YashAgrawal2006/BridgeLabz-SIPP-Training/tree/Java-OOPS/Inheretance)_<br>
+
+📅 02/07/25 (Wed) – Day 6 – Encapsulation, Interface, Abstract Classes, and Polymorphism
+Topics: Encapsulation, Data Hiding, Getter & Setter Method, Compile-Time (Static) Polymorphism, Runtime (Dynamic) Polymorphism, Polymorphism with Interfaces, Polymorphism with Abstract Classes, Casting and instanceof with Polymorphism, Java Interfaces and Abstract Classes.
+🔗  [Code]_(https://github.com/YashAgrawal2006/BridgeLabz-SIPP-Training/tree/Java-OOPS/Encapsulation)_<br>
   
 Each topic’s code is organized in its dedicated branch — but this main README connects everything.
