@@ -91,3 +91,29 @@ Problem Statement 2 : 🎬 CinemaTime – Movie Schedule Manager<br>
 Problem Statement 3 : Studentreportcard<br>
 📘 Scenario: A studentreportcard wants a tool to store the report cards of students ,user should be able to add,view,and search the report card of the students
 🔗 [Code](https://github.com/YashAgrawal2006/BridgeLabz-SIPP-Training/blob/workshop/Workshop/Studentreportcard.java.txt)<br>
+
+
+
+### 🧩 DSA Branch
+
+* 📅 03/07/25 (Thu) – Day 1 – Linked List<br>
+Topics: Introduction of Data Structure, Key Features of Data Structures in Java, Types of Data Structures in Java, Single Linked List, Double Linked List, Circular Linked List.
+🔗 [Code](https://github.com/YashAgrawal2006/BridgeLabz-SIPP-Training/tree/DSA/DSA/LinkedList)<br>
+
+* 📅 07/07/25 (Mon) – Day 2 – Stack Queue And HashMap<br>
+ Topics: Stacks in Java , Key Characteristics of Stack, Internal Working of Stack, Common Applications of Stack, Common Methods in Stack Class, Advantages of Stacks,Queues in Java,Key Characteristics of a Queue,Common Queue Methods,Ticket Counter Management Using Queue,Applications of Queue,HashMap in Java ,Internal Working of HashMap,Key Methods in HashMap,Performance Considerations,Limitations of HashMap,Common Use Cases,Hashing Function in Java,How to Override hashCode(),Steps for Hashing in Java,Applications of Hashing.
+🔗 [Code](https://github.com/YashAgrawal2006/BridgeLabz-SIPP-Training/tree/DSA/DSA/Stack)<br>
+
+* 📅 09/07/25 (Wed) – Day 4 – Sorting Algorithm<br>
+Topics: Bubble Sort,Insertion Sort,Merge Sort,Quick Sort
+🔗 [Code](https://github.com/YashAgrawal2006/BridgeLabz-SIPP-Training/tree/DSA/DSA/Sorting%20Algorithms)<br>
+
+* 📅 10/07/25 (Thu) – Day 5 – Linear And Binary Search<br>
+ Topics: Linear Search,Binary Search,String Builder,String Buffer,File Reader,Input Stream Reader,Linear Search,Binary Search
+🔗 [Code](https://github.com/YashAgrawal2006/BridgeLabz-SIPP-Training/tree/DSA/DSA/LinearAndBinarySearch)<br>
+
+### 📝 Note: Each topic’s code is organized in its dedicated branch — but this main README connects everything.
+
+
+
+
