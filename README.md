@@ -58,6 +58,15 @@ Topics: Deep dive into important Java keywords: static, final, this, and instanc
 Topics: Object-oriented modeling, designing class diagrams using UML, understanding relationships like aggregation and composition<br>
 🔗 [Code](https://github.com/YashAgrawal2006/BridgeLabz-SIPP-Training/tree/Java-OOPS/ObjectModelling)<br>
 
+* 📅 01/07/25 (Tue) – Day 5 – Inheritance
+ Topics: Inheritance, Single Level Inheritance, Multilevel Inheritance, Hierarchical Inheritance, Key Features of Inheritance, Method Overriding, Constructor Inheritance in Java, Polymorphism and Inheritance, Access Modifiers and Inheritance.
+🔗 [Code](https://github.com/YashAgrawal2006/BridgeLabz-SIPP-Training/tree/Java-OOPS/Inheretance)<br>
+
+* 📅 02/07/25 (Wed) – Day 6 – Encapsulation
+Topics: Interface, Abstract Classes, and Polymorphism Topics: Encapsulation, Data Hiding, Getter & Setter Method, Compile-Time (Static) Polymorphism, Runtime (Dynamic) Polymorphism, Polymorphism with Interfaces, Polymorphism with Abstract Classes, Casting and instanceof with Polymorphism, Java Interfaces and Abstract Classes.
+🔗 [Code](https://github.com/YashAgrawal2006/BridgeLabz-SIPP-Training/tree/Java-OOPS/Encapsulation)<br>
+
+
 ### 🛠 Workshop Branch
 
 * 📅 26/06/25 (Thu) – Day 1 – Coding Review<br>
